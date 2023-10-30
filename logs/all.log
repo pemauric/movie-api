@@ -16,3 +16,53 @@
 2023-10-27 20:40:18:4018 - [32minfo[39m: [32mServer listening on port 3000[39m
 2023-10-27 20:44:25:4425 - [32minfo[39m: [32mConnected to MongoDB![39m
 2023-10-27 20:44:25:4425 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:36:37:3637 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:36:37:3637 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:37:30:3730 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:37:30:3730 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:37:34:3734 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:37:34:3734 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:37:40:3740 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:37:40:3740 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:38:27:3827 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:38:27:3827 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:38:35:3835 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:38:35:3835 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:38:37:3837 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:38:37:3837 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:38:39:3839 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:38:39:3839 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:41:13:4113 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:41:13:4113 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:41:19:4119 - [35mhttp[39m: [35mGET /api/test 200 25 - 5.852 ms[39m
+[35m[39m
+2023-10-29 22:56:01:561 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:56:01:561 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:56:15:5615 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:56:15:5615 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:56:22:5622 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:56:22:5622 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:56:25:5625 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:56:25:5625 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:56:31:5631 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:56:31:5631 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:56:58:5658 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:56:58:5658 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:57:14:5714 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:57:14:5714 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:57:20:5720 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:57:20:5720 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:57:22:5722 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:57:22:5722 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:57:24:5724 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:57:24:5724 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:57:25:5725 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:57:25:5725 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:58:50:5850 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:58:50:5850 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:58:55:5855 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:58:55:5855 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:59:13:5913 - [32minfo[39m: [32mConnected to MongoDB![39m
+2023-10-29 22:59:13:5913 - [32minfo[39m: [32mServer listening on port 3000[39m
+2023-10-29 22:59:16:5916 - [35mhttp[39m: [35mPOST /api/movie 200 40 - 1.474 ms[39m
+[35m[39m

@@ -7,7 +7,6 @@ const app = express();
 //import routes
 import router from './routes/movie.routes';
 
-app.use("/api/", router);  
 
 //import database
 import  connectDB  from './database/connect';
@@ -15,11 +14,18 @@ import  connectDB  from './database/connect';
 //import logger
 import Logger from '../config/logger'
 
+//import middlewares
+import morganMiddleware from './middleware/morgan';
+
+
 //port from config
 const port: number = config.get('port');
 
 //middleware
+app.use(morganMiddleware);
 app.use(express.json());
+app.use("/api/", router);  
+
 
 //server
 app.listen(port, async () => {
