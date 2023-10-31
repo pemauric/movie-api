@@ -1,6 +1,7 @@
+const uri = process.env.URI_DB;
+
 export default {
     port: 3000,
-    uri: "mongodb://localhost:27017",
+    uri: uri,
     env: "development",
-    
 }

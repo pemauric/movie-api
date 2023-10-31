@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 //import modules
 import express from 'express';
 import config from 'config';

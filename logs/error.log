@@ -1,0 +1,17 @@
+2023-10-31 11:38:56:3856 - [31merror[39m: [31mError connecting:[39m
+2023-10-31 11:39:54:3954 - [31merror[39m: [31mError connecting:[39m
+2023-10-31 11:40:43:4043 - [31merror[39m: [31mError connecting:[39m
+2023-10-31 11:43:46:4346 - [31merror[39m: [31mError connecting:[39m
+2023-10-31 15:13:40:1340 - [31merror[39m: [31mServer listening on port 3000[39m
+2023-10-31 16:03:23:323 - [31merror[39m: [31mError: Cast to ObjectId failed for value "654142193f5effc4a937ed3" (type string) at path "_id" for model "Movie"[39m
+2023-10-31 16:04:27:427 - [31merror[39m: [31mError: Cast to ObjectId failed for value "654142193f5effc4a937ed3" (type string) at path "_id" for model "Movie"[39m
+2023-10-31 16:05:21:521 - [31merror[39m: [31mError: Cast to ObjectId failed for value "654142193f5effc4a937ed3" (type string) at path "_id" for model "Movie"[39m
+2023-10-31 16:05:22:522 - [31merror[39m: [31mError: Cast to ObjectId failed for value "654142193f5effc4a937ed3" (type string) at path "_id" for model "Movie"[39m
+2023-10-31 16:05:26:526 - [31merror[39m: [31mError: Cast to ObjectId failed for value "65414219" (type string) at path "_id" for model "Movie"[39m
+2023-10-31 16:05:27:527 - [31merror[39m: [31mError: Cast to ObjectId failed for value "65414219" (type string) at path "_id" for model "Movie"[39m
+2023-10-31 16:47:34:4734 - [31merror[39m: [31mError: Cast to ObjectId failed for value "{ id: '65415834e83bbba222aec813' }" (type Object) at path "_id" for model "Movie"[39m
+2023-10-31 16:50:53:5053 - [31merror[39m: [31mError: Cast to ObjectId failed for value "{ id: '65415834e83bbba222aec819' }" (type Object) at path "_id" for model "Movie"[39m
+2023-10-31 16:51:40:5140 - [31merror[39m: [31mError: Cast to ObjectId failed for value "{ id: '65415834e83bbba222aec819' }" (type Object) at path "_id" for model "Movie"[39m
+2023-10-31 16:51:43:5143 - [31merror[39m: [31mError: Cast to ObjectId failed for value "{ id: '65415834e83bbba222aec816' }" (type Object) at path "_id" for model "Movie"[39m
+2023-10-31 16:52:44:5244 - [31merror[39m: [31mError: Cast to ObjectId failed for value "{ id: '65415834e83bbba222aec813' }" (type Object) at path "_id" for model "Movie"[39m
+2023-10-31 16:55:35:5535 - [31merror[39m: [31mError: Cast to ObjectId failed for value "{ id: '65415834e83bbba222aec813' }" (type Object) at path "_id" for model "Movie"[39m
